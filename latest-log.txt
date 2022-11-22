@@ -1,0 +1,13 @@
+Update 1.8.0.1 [BETA]
+ - Removed vpn
+ + Added check host of site
+ + Added check url correctnes in Stresser
+ + Added User-Agent Spoofer in Stresser
+ + Fixed packets stats in Stresser
+ + Packet 200&503 now is work
+ + New attack mechanism
+ + Added line of loading page in Browser
+ + Updated security in Browser
+ + Updated design
+ + Added two new songs in Music
+ + Updated info tables
