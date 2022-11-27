@@ -1,4 +1,10 @@
-Update 1.8.0.1 [BETA]
+Update 1.8.0.3 [BETA]
+- Deleted site protection detection in Stresser
++ Fixed ping in Stresser
++ Fixed response status in Stresser
++ Some design and code fixes in app
+
+Update 1.8.0.2 [BETA]
  - Removed vpn
  + Added check host of site
  + Added check url correctnes in Stresser
