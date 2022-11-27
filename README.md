@@ -1,7 +1,7 @@
 # Mountain Client
 Mountain Client this a app with more tools.
 
-# Client have:
+# Client has:
 > Stresser,
 > browser,
 > music library,
