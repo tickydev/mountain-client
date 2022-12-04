@@ -1,4 +1,4 @@
-Update 1.8.1 [BETA] [SOON]
+Update 1.8.1 [BETA] [RELEASED]
  + Added device and account check with database(app protection)
  + User-Agent changed in Browser
  + Small design and code fixes
