@@ -1,10 +1,18 @@
-Update 1.8.0.3 [BETA]
+Update 1.8.1 [BETA] [SOON]
+ + Added device and account check with database(app protection)
+ + User-Agent changed in Browser
+[ Link: -]
+
+
+Update 1.8.0.3 [BETA] [RELEASED]
 - Deleted site protection detection in Stresser
 + Fixed ping in Stresser
 + Fixed response status in Stresser
 + Some design and code fixes in app
+[ Link: https://t.me/mountainclient/25 ]
 
-Update 1.8.0.2 [BETA]
+
+Update 1.8.0.2 [BETA] [RELEASED]
  - Removed vpn
  + Added check host of site
  + Added check url correctnes in Stresser
@@ -17,3 +25,19 @@ Update 1.8.0.2 [BETA]
  + Updated design
  + Added two new songs in Music
  + Updated info tables
+[ Link: https://t.me/mountainclient/24 ]
+
+
+Update 1.7.5 [BETA] [RELEASED]
+ - Login deleted
+ + Added packets interval in Stresser
+ + Added checker of link correctness in Stresser
+ + User-Agent changed in Browser
+ + Small fixes
+[ Link: https://t.me/mountainclient/15 ]
+
+
+****************************
+  The Project Changes Log
+  Created in version 1.7.5
+****************************
