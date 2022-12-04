@@ -2,7 +2,7 @@ Update 1.8.1 [BETA] [SOON]
  + Added device and account check with database(app protection)
  + User-Agent changed in Browser
  + Small design and code fixes
-[ Link: THIS VERSION IN DEVELOPING ]
+[ Link: https://t.me/neverscare_bot ]
 
 
 Update 1.8.0.3 [BETA] [RELEASED]
