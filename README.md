@@ -12,4 +12,4 @@ ___Mountain Client this a app with more tools.___
 * 3️⃣ __Music Library__ _have 8 playable tracks_
 * 4️⃣ __Check host__ _is check-host.cc_
 
-__Developer telegram:__ [Neverscare TG](http://t.me/neverscare)
+__Developer telegram:__ [Neverscare TG](https://t.me/mountainclient)
