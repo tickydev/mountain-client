@@ -1,14 +1,15 @@
 Update 1.8.1 [BETA] [SOON]
  + Added device and account check with database(app protection)
  + User-Agent changed in Browser
-[ Link: -]
+ + Small design and code fixes
+[ Link: THIS VERSION IN DEVELOPING ]
 
 
 Update 1.8.0.3 [BETA] [RELEASED]
-- Deleted site protection detection in Stresser
-+ Fixed ping in Stresser
-+ Fixed response status in Stresser
-+ Some design and code fixes in app
+ - Deleted site protection detection in Stresser
+ + Fixed ping in Stresser
+ + Fixed response status in Stresser
+ + Some design and code fixes in app
 [ Link: https://t.me/mountainclient/25 ]
 
 
