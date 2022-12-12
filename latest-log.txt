@@ -1,3 +1,20 @@
+Update 1.9 [BETA] [SOON]
++ Added Botnet Emulation(20 users, soon more..)
++ Added Global Chat
++ Added CheckHost(Alpha Version)
++ Added Get UserAgent 
++ Stresser renamed to DDoS
++ Added test bypasses in DDoS
++ Fixed MORE MORE MORE bugs and errors
++ Improved and fixed application protection 
++ Fully redesign
++ Updated some features in the browser and updated design 
++ Now you can set own UserAgent in the browser
++ Improved mechanics in DDoS 
++ We now have own website >> mountainclient.ru
+[ Link: COMING SOON ]
+
+
 Update 1.8.1 [BETA] [RELEASED]
  + Added device and account check with database(app protection)
  + User-Agent changed in Browser
