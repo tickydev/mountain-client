@@ -17,5 +17,5 @@ ___Mountain Client this a app with more tools.___
 * 6️⃣ __Check host__ _own check host system._
 * 7️⃣ __Get UserAgent__ _get own website UserAgent._
 
-__Developer telegram:__ [MountainClient](https://t.me/mountainclient)
+__Developer telegram:__ [MountainClient](https://t.me/mountainclient) |
 __Our site:__ [mountainclient.ru](https://mountainclient.ru)
