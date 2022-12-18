@@ -1,5 +1,5 @@
 Update 1.9 [BETA] [SOON]
-+ Added Botnet Emulation(20 users, soon more..)
++ Added Botnet Emulation(40 users, soon more..)
 + Added Global Chat
 + Added CheckHost(Alpha Version)
 + Added Get UserAgent 
@@ -8,6 +8,10 @@ Update 1.9 [BETA] [SOON]
 + Fixed MORE MORE MORE bugs and errors
 + Improved and fixed application protection 
 + Fully redesign
++ Better protection and data encryption
++ Added anti-leak system
++ Added 2 tracks to Music and fixed some functions
++ DDoS have 10 methods
 + Updated some features in the browser and updated design 
 + Now you can set own UserAgent in the browser
 + Improved mechanics in DDoS 
