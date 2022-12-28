@@ -7,7 +7,8 @@ ___Mountain Client this a app with more tools.___
 > Global Chat,
 > Browser,
 > Music,
-> CheckHost
+> CheckHost,
+> Phone Info
 
 * 1️⃣ __Protected Browser__ _have User-Agent spoof and vpn support, convenient menu without unnecessary._
 * 2️⃣ __DDoS__ _have 10 methods and dstat(After ddos, in ddos)._
@@ -16,6 +17,7 @@ ___Mountain Client this a app with more tools.___
 * 5️⃣ __Music Library__ _have 10 playable tracks._
 * 6️⃣ __Check host__ _own check host system._
 * 7️⃣ __Get UserAgent__ _get own website UserAgent._
+* 8️⃣ __Phone Information__ _see info about your phone._
 
 __Developer telegram:__ [MountainClient](https://t.me/mountainclient) |
 __Our site:__ [mountainclient.ru](https://mountainclient.ru)
