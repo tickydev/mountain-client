@@ -1,4 +1,4 @@
-Update 1.9 [BETA] [SOON]
+Update 1.9 [BETA] [RELEASED]
 + Added Botnet Emulation(40 users, soon more..)
 + Added Global Chat
 + Added CheckHost(Alpha Version)
@@ -16,7 +16,7 @@ Update 1.9 [BETA] [SOON]
 + Now you can set own UserAgent in the browser
 + Improved mechanics in DDoS 
 + We now have own website >> mountainclient.ru
-[ Link: COMING SOON ]
+[ Link: https://t.me/neverscare_bot ]
 
 
 Update 1.8.1 [BETA] [RELEASED]
