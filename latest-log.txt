@@ -1,3 +1,11 @@
+Update 1.9.1 [BETA] [RELEASED]
+- The check has been removed and is being finalized 
++ More optimized size 
++ Improved optimization 
++ Fixed some bugs
++ Added one track in Music Library
+[ Link: https://t.me/neverscare_bot ]
+
 Update 1.9 [BETA] [RELEASED]
 + Added Botnet Emulation(40 users, soon more..)
 + Added Global Chat
